@@ -1,22 +1,21 @@
 ﻿using System;
 
-namespace poo
+
+class Program
 {
-    class Program
+    static void Main(String[] args)
     {
-        static void Main(String[] args)
-        {
-            Knight arus = new Knight("Arus", 42, "Knight", 530);
-            Wizard magicMan = new Wizard("Alaf", 45, "Magic", 340);
+        Knight arus = new Knight("Arus", 42, "Knight", 530);
+        Wizard magicMan = new Wizard("Alaf", 45, "Magic", 340);
 
-            Console.WriteLine(arus.ToString());
-            Console.WriteLine(magicMan.Attack());
-            Console.WriteLine(arus.Attack());
-            System.Console.WriteLine(magicMan.Attack(3, "Machadada"));
+        Console.WriteLine(arus.ToString());
+        Console.WriteLine(magicMan.Attack());
+        Console.WriteLine(arus.Attack());
+        System.Console.WriteLine(magicMan.Attack(3, "Machadada"));
 
 
-
-        }
 
     }
+
 }
+
