@@ -8,6 +8,8 @@ namespace DIO.SERIES
         private string Descricao { get; set; }
         public int Ano { get; set; }
 
+        private bool Excluido { get; set; }
+
         public Serie(int Id, Genero genero, string titulo, string descricao, int ano)
         {
             this.Id = Id;
@@ -15,6 +17,7 @@ namespace DIO.SERIES
             this.Titulo = titulo;
             this.Descricao = descricao;
             this.Ano = ano;
+            this.Excluido = false;
         }
 
         public override string ToString()
@@ -24,6 +27,7 @@ namespace DIO.SERIES
             retorno += "Titulo: " + this.Titulo + Environment.NewLine;
             retorno += "Descricao: " + this.Descricao + Environment.NewLine;
             retorno += "Ano de Inicio : " + this.Ano + Environment.NewLine;
+            retorno += "Excluido : " + this.Excluido + Environment.NewLine;
             return retorno;
         }
 
@@ -35,6 +39,11 @@ namespace DIO.SERIES
         public string RetornarId()
         {
             return this.Titulo;
+        }
+
+        public void Excluir()
+        {
+            this.Excluido = true;
         }
     }
 }

@@ -1,0 +1,15 @@
+D:\home_windows\Documents\GitHub\Dio.Net\DIO.SERIES\bin\Debug\net6.0\DIO.SERIES.exe
+D:\home_windows\Documents\GitHub\Dio.Net\DIO.SERIES\bin\Debug\net6.0\DIO.SERIES.deps.json
+D:\home_windows\Documents\GitHub\Dio.Net\DIO.SERIES\bin\Debug\net6.0\DIO.SERIES.runtimeconfig.json
+D:\home_windows\Documents\GitHub\Dio.Net\DIO.SERIES\bin\Debug\net6.0\DIO.SERIES.dll
+D:\home_windows\Documents\GitHub\Dio.Net\DIO.SERIES\bin\Debug\net6.0\DIO.SERIES.pdb
+D:\home_windows\Documents\GitHub\Dio.Net\DIO.SERIES\obj\Debug\net6.0\DIO.SERIES.csproj.AssemblyReference.cache
+D:\home_windows\Documents\GitHub\Dio.Net\DIO.SERIES\obj\Debug\net6.0\DIO.SERIES.GeneratedMSBuildEditorConfig.editorconfig
+D:\home_windows\Documents\GitHub\Dio.Net\DIO.SERIES\obj\Debug\net6.0\DIO.SERIES.AssemblyInfoInputs.cache
+D:\home_windows\Documents\GitHub\Dio.Net\DIO.SERIES\obj\Debug\net6.0\DIO.SERIES.AssemblyInfo.cs
+D:\home_windows\Documents\GitHub\Dio.Net\DIO.SERIES\obj\Debug\net6.0\DIO.SERIES.csproj.CoreCompileInputs.cache
+D:\home_windows\Documents\GitHub\Dio.Net\DIO.SERIES\obj\Debug\net6.0\DIO.SERIES.dll
+D:\home_windows\Documents\GitHub\Dio.Net\DIO.SERIES\obj\Debug\net6.0\refint\DIO.SERIES.dll
+D:\home_windows\Documents\GitHub\Dio.Net\DIO.SERIES\obj\Debug\net6.0\DIO.SERIES.pdb
+D:\home_windows\Documents\GitHub\Dio.Net\DIO.SERIES\obj\Debug\net6.0\DIO.SERIES.genruntimeconfig.cache
+D:\home_windows\Documents\GitHub\Dio.Net\DIO.SERIES\obj\Debug\net6.0\ref\DIO.SERIES.dll
